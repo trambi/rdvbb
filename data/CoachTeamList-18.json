@@ -1,0 +1,362 @@
+{
+    "368": {
+        "name": "Les routards",
+        "id": 368,
+        "coachTeamMates": [
+            {
+                "coach": "Dadayou",
+                "coachTeamId": 368,
+                "coachTeamName": "Les routards",
+                "teamId": 1440,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Rhadghut",
+                "coachTeamId": 368,
+                "coachTeamName": "Les routards",
+                "teamId": 1441,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Orga",
+                "coachTeamId": 368,
+                "coachTeamName": "Les routards",
+                "teamId": 1442,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "369": {
+        "name": "Cocoripow",
+        "id": 369,
+        "coachTeamMates": [
+            {
+                "coach": "Bourpif",
+                "coachTeamId": 369,
+                "coachTeamName": "Cocoripow",
+                "teamId": 1443,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Karaak",
+                "coachTeamId": 369,
+                "coachTeamName": "Cocoripow",
+                "teamId": 1444,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Samdulac",
+                "coachTeamId": 369,
+                "coachTeamName": "Cocoripow",
+                "teamId": 1445,
+                "teamName": "C",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "370": {
+        "name": "Fil Sanguinaire Choletais",
+        "id": 370,
+        "coachTeamMates": [
+            {
+                "coach": "La Chouviasse",
+                "coachTeamId": 370,
+                "coachTeamName": "Fil Sanguinaire Choletais",
+                "teamId": 1446,
+                "teamName": "C",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Mordikar",
+                "coachTeamId": 370,
+                "coachTeamName": "Fil Sanguinaire Choletais",
+                "teamId": 1447,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Sipjin",
+                "coachTeamId": 370,
+                "coachTeamName": "Fil Sanguinaire Choletais",
+                "teamId": 1448,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "371": {
+        "name": "Seniores Turones",
+        "id": 371,
+        "coachTeamMates": [
+            {
+                "coach": "Davouille",
+                "coachTeamId": 371,
+                "coachTeamName": "Seniores Turones",
+                "teamId": 1449,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Reddawn",
+                "coachTeamId": 371,
+                "coachTeamName": "Seniores Turones",
+                "teamId": 1450,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Nocom",
+                "coachTeamId": 371,
+                "coachTeamName": "Seniores Turones",
+                "teamId": 1451,
+                "teamName": "C",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "372": {
+        "name": "Pere castor et ses chouineuses",
+        "id": 372,
+        "coachTeamMates": [
+            {
+                "coach": "Lord_bojo",
+                "coachTeamId": 372,
+                "coachTeamName": "Pere castor et ses chouineuses",
+                "teamId": 1452,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "helborg",
+                "coachTeamId": 372,
+                "coachTeamName": "Pere castor et ses chouineuses",
+                "teamId": 1453,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Pilaf",
+                "coachTeamId": 372,
+                "coachTeamName": "Pere castor et ses chouineuses",
+                "teamId": 1454,
+                "teamName": "C",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "373": {
+        "name": "EDF de Gauche",
+        "id": 373,
+        "coachTeamMates": [
+            {
+                "coach": "Feerikon",
+                "coachTeamId": 373,
+                "coachTeamName": "EDF de Gauche",
+                "teamId": 1455,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Raztout",
+                "coachTeamId": 373,
+                "coachTeamName": "EDF de Gauche",
+                "teamId": 1456,
+                "teamName": "C",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Acryosis",
+                "coachTeamId": 373,
+                "coachTeamName": "EDF de Gauche",
+                "teamId": 1457,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "374": {
+        "name": "EDF de Droite",
+        "id": 374,
+        "coachTeamMates": [
+            {
+                "coach": "Foxxx",
+                "coachTeamId": 374,
+                "coachTeamName": "EDF de Droite",
+                "teamId": 1458,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Bagouze",
+                "coachTeamId": 374,
+                "coachTeamName": "EDF de Droite",
+                "teamId": 1459,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Thot",
+                "coachTeamId": 374,
+                "coachTeamName": "EDF de Droite",
+                "teamId": 1460,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "375": {
+        "name": "Bashtag Lutce",
+        "id": 375,
+        "coachTeamMates": [
+            {
+                "coach": "Budmilka",
+                "coachTeamId": 375,
+                "coachTeamName": "Bashtag Lutce",
+                "teamId": 1461,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Pink_Charlie",
+                "coachTeamId": 375,
+                "coachTeamName": "Bashtag Lutce",
+                "teamId": 1462,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Crouch",
+                "coachTeamId": 375,
+                "coachTeamName": "Bashtag Lutce",
+                "teamId": 1463,
+                "teamName": "C",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "376": {
+        "name": "ZPL1",
+        "id": 376,
+        "coachTeamMates": [
+            {
+                "coach": "Skarlan",
+                "coachTeamId": 376,
+                "coachTeamName": "ZPL1",
+                "teamId": 1464,
+                "teamName": "C",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Itchou",
+                "coachTeamId": 376,
+                "coachTeamName": "ZPL1",
+                "teamId": 1465,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Luke_Cage",
+                "coachTeamId": 376,
+                "coachTeamName": "ZPL1",
+                "teamId": 1466,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "377": {
+        "name": "ZPL2",
+        "id": 377,
+        "coachTeamMates": [
+            {
+                "coach": "Rhum",
+                "coachTeamId": 377,
+                "coachTeamName": "ZPL2",
+                "teamId": 1467,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Yti",
+                "coachTeamId": 377,
+                "coachTeamName": "ZPL2",
+                "teamId": 1468,
+                "teamName": "C",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Oxydes",
+                "coachTeamId": 377,
+                "coachTeamName": "ZPL2",
+                "teamId": 1469,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "378": {
+        "name": "Socks",
+        "id": 378,
+        "coachTeamMates": [
+            {
+                "coach": "Harti",
+                "coachTeamId": 378,
+                "coachTeamName": "Socks",
+                "teamId": 1470,
+                "teamName": "C",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Zvonir",
+                "coachTeamId": 378,
+                "coachTeamName": "Socks",
+                "teamId": 1471,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Rremy",
+                "coachTeamId": 378,
+                "coachTeamName": "Socks",
+                "teamId": 1472,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "379": {
+        "name": "Stade Lorain",
+        "id": 379,
+        "coachTeamMates": [
+            {
+                "coach": "Oon",
+                "coachTeamId": 379,
+                "coachTeamName": "Stade Lorain",
+                "teamId": 1473,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "JC",
+                "coachTeamId": 379,
+                "coachTeamName": "Stade Lorain",
+                "teamId": 1474,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Martoni",
+                "coachTeamId": 379,
+                "coachTeamName": "Stade Lorain",
+                "teamId": 1475,
+                "teamName": "C",
+                "isPrebooking": 0
+            }
+        ]
+    }
+}

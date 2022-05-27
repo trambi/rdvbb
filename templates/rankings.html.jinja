@@ -1,0 +1,35 @@
+{% extends "base.html.jinja" %}
+{% block title %}
+{{ edition.shortname }} - Classements
+{% endblock %}
+{% block coachranking %}
+    {% for ranking in edition.coachRanking %}
+        <h2>Classement individuel {{ranking.name}}</h2>
+        <table>
+            <thead>
+                <tr>{% for column in ranking.headers %}{{column}}{% endfor %}</tr>
+            </thead>
+            <tbody>{% for row in ranking.rows %}
+                <tr>{% for cell in row %}<td>{{cell}}</td>{% endfor %}</tr>
+            {% endfor %}</tbody>
+        </table>
+    {% endfor %}
+{% endblock %}
+{% block squadranking %}
+    {% for ranking in edition.squadRanking %}
+        <h2>Classement par équipes {{ranking.name}}</h2>
+        <table>
+            <thead>
+                <tr>{% for column in ranking.headers %}{{column}}{% endfor %}</tr>
+            </thead>
+            <tbody>{% for row in ranking.rows %}
+                <tr>{% for cell in row %}<td>{{cell}}</td>{% endfor %}</tr>
+            {% endfor %}</tbody>
+        </table>
+    {% endfor %}
+{% endblock %}
+{% block content %}
+    <h1>{{ edition.name }}</h1>
+    {% block firstranking %}{% endblock %}
+    {% block secondranking %}{% endblock %}
+{% endblock %}

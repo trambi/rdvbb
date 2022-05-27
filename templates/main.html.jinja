@@ -1,0 +1,26 @@
+{% extends "base.html.jinja" %}
+{% block title %}
+{{ edition.shortname }}
+{% endblock %}
+{% block content %}
+    <h1>{{ edition.name }}</h1>
+    <p>Cette édition a eu lieu les {{ edition.day1InFrench }} et {{ edition.day2InFrench }}. Elle a été organisée par {{ edition.organiser }} sur {{ edition.roundNumber }} rondes.</p>
+    {% if edition.squadCompetition %}
+    <p>Il y avait {{edition.squads|length}} équipes participantes :
+    <dl>
+    {% for squad in edition.squads %}
+        <dt>{{squad.name}} :</dt>
+        <dd>{% for teammate in squad.coachTeamMates %}{{teammate.coach}}{% if loop.first==true %}, {% elif loop.last ==false%} et {% endif %}{% endfor %}{% if loop.last %}.{% else %} ;{% endif %}</dd>
+    {% endfor %}
+    </dl>
+    {% else %}
+    <p>Il y avait {{edition.coachs|length}} participants :
+    <ul>
+    {% for coach in edition.coachs %}
+        <li>{{coach.name}}{% if loop.last==false %},{% endif %}</li>
+    {% endfor %}
+    </ul>
+    </p>
+    {% endif %}
+    
+{% endblock %}

@@ -1,0 +1,362 @@
+{
+    "95": {
+        "name": "SES",
+        "id": 95,
+        "coachTeamMates": [
+            {
+                "coach": "Gregereggae",
+                "coachTeamId": 95,
+                "coachTeamName": "SES",
+                "teamId": 550,
+                "teamName": "Nordiques Kennek",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Sgala",
+                "coachTeamId": 95,
+                "coachTeamName": "SES",
+                "teamId": 553,
+                "teamName": "Da SES Lakers",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Darky",
+                "coachTeamId": 95,
+                "coachTeamName": "SES",
+                "teamId": 556,
+                "teamName": "Reiksguard\u0027s Runners",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "96": {
+        "name": "GDL masters and cro ",
+        "id": 96,
+        "coachTeamMates": [
+            {
+                "coach": "azzroag",
+                "coachTeamId": 96,
+                "coachTeamName": "GDL masters and cro ",
+                "teamId": 548,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Harti",
+                "coachTeamId": 96,
+                "coachTeamName": "GDL masters and cro ",
+                "teamId": 549,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Buck\u0027s",
+                "coachTeamId": 96,
+                "coachTeamName": "GDL masters and cro ",
+                "teamId": 551,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "97": {
+        "name": "GDL Mogway and co",
+        "id": 97,
+        "coachTeamMates": [
+            {
+                "coach": "scampi",
+                "coachTeamId": 97,
+                "coachTeamName": "GDL Mogway and co",
+                "teamId": 552,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "styx_gdl",
+                "coachTeamId": 97,
+                "coachTeamName": "GDL Mogway and co",
+                "teamId": 554,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "wildgripper",
+                "coachTeamId": 97,
+                "coachTeamName": "GDL Mogway and co",
+                "teamId": 555,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "98": {
+        "name": "Sladmortis - Knox - Skrolk",
+        "id": 98,
+        "coachTeamMates": [
+            {
+                "coach": "Skrolk",
+                "coachTeamId": 98,
+                "coachTeamName": "Sladmortis - Knox - Skrolk",
+                "teamId": 559,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Knox",
+                "coachTeamId": 98,
+                "coachTeamName": "Sladmortis - Knox - Skrolk",
+                "teamId": 560,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Sladmortis",
+                "coachTeamId": 98,
+                "coachTeamName": "Sladmortis - Knox - Skrolk",
+                "teamId": 562,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "99": {
+        "name": "Zahiko - The Pit - Old Dwarf",
+        "id": 99,
+        "coachTeamMates": [
+            {
+                "coach": "the_pit",
+                "coachTeamId": 99,
+                "coachTeamName": "Zahiko - The Pit - Old Dwarf",
+                "teamId": 577,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "zahiko",
+                "coachTeamId": 99,
+                "coachTeamName": "Zahiko - The Pit - Old Dwarf",
+                "teamId": 578,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "old_dwarf",
+                "coachTeamId": 99,
+                "coachTeamName": "Zahiko - The Pit - Old Dwarf",
+                "teamId": 583,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "100": {
+        "name": "Nauti\u0027 Boys de Poissy",
+        "id": 100,
+        "coachTeamMates": [
+            {
+                "coach": "deuxfleurs",
+                "coachTeamId": 100,
+                "coachTeamName": "Nauti\u0027 Boys de Poissy",
+                "teamId": 566,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "frenetikm",
+                "coachTeamId": 100,
+                "coachTeamName": "Nauti\u0027 Boys de Poissy",
+                "teamId": 567,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "grinegiant",
+                "coachTeamId": 100,
+                "coachTeamName": "Nauti\u0027 Boys de Poissy",
+                "teamId": 568,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "101": {
+        "name": "Stade Lorain \u0026agrave; tous les \u0026eacute;tages",
+        "id": 101,
+        "coachTeamMates": [
+            {
+                "coach": "JC",
+                "coachTeamId": 101,
+                "coachTeamName": "Stade Lorain \u0026agrave; tous les \u0026eacute;tages",
+                "teamId": 563,
+                "teamName": "Stade Lorain",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Martoni",
+                "coachTeamId": 101,
+                "coachTeamName": "Stade Lorain \u0026agrave; tous les \u0026eacute;tages",
+                "teamId": 564,
+                "teamName": "Stade Lorain of Sewers",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Oon",
+                "coachTeamId": 101,
+                "coachTeamName": "Stade Lorain \u0026agrave; tous les \u0026eacute;tages",
+                "teamId": 565,
+                "teamName": "Stade Lorain of Death",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "102": {
+        "name": "ACP",
+        "id": 102,
+        "coachTeamMates": [
+            {
+                "coach": "Ghostdog",
+                "coachTeamId": 102,
+                "coachTeamName": "ACP",
+                "teamId": 572,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Ktulu",
+                "coachTeamId": 102,
+                "coachTeamName": "ACP",
+                "teamId": 575,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "La_Fouine",
+                "coachTeamId": 102,
+                "coachTeamName": "ACP",
+                "teamId": 576,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "103": {
+        "name": "SSB - Basurdi - Pixman",
+        "id": 103,
+        "coachTeamMates": [
+            {
+                "coach": "Basurdi",
+                "coachTeamId": 103,
+                "coachTeamName": "SSB - Basurdi - Pixman",
+                "teamId": 569,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Pixmen",
+                "coachTeamId": 103,
+                "coachTeamName": "SSB - Basurdi - Pixman",
+                "teamId": 570,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "SSB",
+                "coachTeamId": 103,
+                "coachTeamName": "SSB - Basurdi - Pixman",
+                "teamId": 571,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "104": {
+        "name": "QuentinPo - Funny_Valentine - Pink_Charlie",
+        "id": 104,
+        "coachTeamMates": [
+            {
+                "coach": "Funny_Valentine",
+                "coachTeamId": 104,
+                "coachTeamName": "QuentinPo - Funny_Valentine - Pink_Charlie",
+                "teamId": 580,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Pink_Charlie",
+                "coachTeamId": 104,
+                "coachTeamName": "QuentinPo - Funny_Valentine - Pink_Charlie",
+                "teamId": 581,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Garden",
+                "coachTeamId": 104,
+                "coachTeamName": "QuentinPo - Funny_Valentine - Pink_Charlie",
+                "teamId": 582,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "105": {
+        "name": "Krisgob - Zorglub - Sebotouno",
+        "id": 105,
+        "coachTeamMates": [
+            {
+                "coach": "Krisgob",
+                "coachTeamId": 105,
+                "coachTeamName": "Krisgob - Zorglub - Sebotouno",
+                "teamId": 573,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "sebotouno",
+                "coachTeamId": 105,
+                "coachTeamName": "Krisgob - Zorglub - Sebotouno",
+                "teamId": 574,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Zorglub",
+                "coachTeamId": 105,
+                "coachTeamName": "Krisgob - Zorglub - Sebotouno",
+                "teamId": 579,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "106": {
+        "name": "Socks Orga",
+        "id": 106,
+        "coachTeamMates": [
+            {
+                "coach": "Trambi",
+                "coachTeamId": 106,
+                "coachTeamName": "Socks Orga",
+                "teamId": 584,
+                "teamName": "Metal Avengers",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "JManu",
+                "coachTeamId": 106,
+                "coachTeamName": "Socks Orga",
+                "teamId": 585,
+                "teamName": "Bloody Piut",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Carl Malavai",
+                "coachTeamId": 106,
+                "coachTeamName": "Socks Orga",
+                "teamId": 586,
+                "teamName": "0",
+                "isPrebooking": 0
+            }
+        ]
+    }
+}

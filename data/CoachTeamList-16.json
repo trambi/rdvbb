@@ -1,0 +1,362 @@
+{
+    "334": {
+        "name": "Les Brutes Nantaises",
+        "id": 334,
+        "coachTeamMates": [
+            {
+                "coach": "Tyra",
+                "coachTeamId": 334,
+                "coachTeamName": "Les Brutes Nantaises",
+                "teamId": 1334,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Acryosis",
+                "coachTeamId": 334,
+                "coachTeamName": "Les Brutes Nantaises",
+                "teamId": 1335,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Kaorag",
+                "coachTeamId": 334,
+                "coachTeamName": "Les Brutes Nantaises",
+                "teamId": 1373,
+                "teamName": "a",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "335": {
+        "name": "La Team GSM ( Galettes Saucisses Mickey )",
+        "id": 335,
+        "coachTeamMates": [
+            {
+                "coach": "Mad Coach",
+                "coachTeamId": 335,
+                "coachTeamName": "La Team GSM ( Galettes Saucisses Mickey )",
+                "teamId": 1337,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Dadayou",
+                "coachTeamId": 335,
+                "coachTeamName": "La Team GSM ( Galettes Saucisses Mickey )",
+                "teamId": 1338,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Lothurn",
+                "coachTeamId": 335,
+                "coachTeamName": "La Team GSM ( Galettes Saucisses Mickey )",
+                "teamId": 1339,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "336": {
+        "name": "Les Blitz Boyz",
+        "id": 336,
+        "coachTeamMates": [
+            {
+                "coach": "Rhadghut",
+                "coachTeamId": 336,
+                "coachTeamName": "Les Blitz Boyz",
+                "teamId": 1341,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Da_Polux",
+                "coachTeamId": 336,
+                "coachTeamName": "Les Blitz Boyz",
+                "teamId": 1342,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Hornorc",
+                "coachTeamId": 336,
+                "coachTeamName": "Les Blitz Boyz",
+                "teamId": 1372,
+                "teamName": "a",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "337": {
+        "name": "EnJoLeavers",
+        "id": 337,
+        "coachTeamMates": [
+            {
+                "coach": "HaMoK",
+                "coachTeamId": 337,
+                "coachTeamName": "EnJoLeavers",
+                "teamId": 1343,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Bulot",
+                "coachTeamId": 337,
+                "coachTeamName": "EnJoLeavers",
+                "teamId": 1344,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Khellen",
+                "coachTeamId": 337,
+                "coachTeamName": "EnJoLeavers",
+                "teamId": 1345,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "338": {
+        "name": "FBI (For Bloody Immortal)",
+        "id": 338,
+        "coachTeamMates": [
+            {
+                "coach": "Bloody (capitaine)",
+                "coachTeamId": 338,
+                "coachTeamName": "FBI (For Bloody Immortal)",
+                "teamId": 1346,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "David Sycod",
+                "coachTeamId": 338,
+                "coachTeamName": "FBI (For Bloody Immortal)",
+                "teamId": 1347,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "\u0022Go The Hakes !!\u0022",
+                "coachTeamId": 338,
+                "coachTeamName": "FBI (For Bloody Immortal)",
+                "teamId": 1348,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "339": {
+        "name": "Aqua Poney ",
+        "id": 339,
+        "coachTeamMates": [
+            {
+                "coach": "Phags",
+                "coachTeamId": 339,
+                "coachTeamName": "Aqua Poney ",
+                "teamId": 1349,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Blizzards",
+                "coachTeamId": 339,
+                "coachTeamName": "Aqua Poney ",
+                "teamId": 1350,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Aurelnatation",
+                "coachTeamId": 339,
+                "coachTeamName": "Aqua Poney ",
+                "teamId": 1351,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "340": {
+        "name": "Socks Old Stars",
+        "id": 340,
+        "coachTeamMates": [
+            {
+                "coach": "Trambi",
+                "coachTeamId": 340,
+                "coachTeamName": "Socks Old Stars",
+                "teamId": 1352,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Jmanu",
+                "coachTeamId": 340,
+                "coachTeamName": "Socks Old Stars",
+                "teamId": 1353,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Teva",
+                "coachTeamId": 340,
+                "coachTeamName": "Socks Old Stars",
+                "teamId": 1354,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "341": {
+        "name": "ACP",
+        "id": 341,
+        "coachTeamMates": [
+            {
+                "coach": "Zahiko",
+                "coachTeamId": 341,
+                "coachTeamName": "ACP",
+                "teamId": 1355,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Sladmortis",
+                "coachTeamId": 341,
+                "coachTeamName": "ACP",
+                "teamId": 1356,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Simon_ACP",
+                "coachTeamId": 341,
+                "coachTeamName": "ACP",
+                "teamId": 1371,
+                "teamName": "d",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "342": {
+        "name": "B# Lutece",
+        "id": 342,
+        "coachTeamMates": [
+            {
+                "coach": "Ghorghor",
+                "coachTeamId": 342,
+                "coachTeamName": "B# Lutece",
+                "teamId": 1358,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Pink Charlie",
+                "coachTeamId": 342,
+                "coachTeamName": "B# Lutece",
+                "teamId": 1359,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Meiffer",
+                "coachTeamId": 342,
+                "coachTeamName": "B# Lutece",
+                "teamId": 1360,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "343": {
+        "name": "BSD",
+        "id": 343,
+        "coachTeamMates": [
+            {
+                "coach": "Budmilka",
+                "coachTeamId": 343,
+                "coachTeamName": "BSD",
+                "teamId": 1361,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "SamDulac",
+                "coachTeamId": 343,
+                "coachTeamName": "BSD",
+                "teamId": 1362,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Davouille",
+                "coachTeamId": 343,
+                "coachTeamName": "BSD",
+                "teamId": 1370,
+                "teamName": "BSD",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "344": {
+        "name": "L\u2019Amicale du Push Push",
+        "id": 344,
+        "coachTeamMates": [
+            {
+                "coach": "Karaak",
+                "coachTeamId": 344,
+                "coachTeamName": "L\u2019Amicale du Push Push",
+                "teamId": 1364,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Gros Nain",
+                "coachTeamId": 344,
+                "coachTeamName": "L\u2019Amicale du Push Push",
+                "teamId": 1365,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Guigui",
+                "coachTeamId": 344,
+                "coachTeamName": "L\u2019Amicale du Push Push",
+                "teamId": 1366,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "345": {
+        "name": "Les Ambassadeurs de Zopal",
+        "id": 345,
+        "coachTeamMates": [
+            {
+                "coach": "jadawin",
+                "coachTeamId": 345,
+                "coachTeamName": "Les Ambassadeurs de Zopal",
+                "teamId": 1367,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "yeti",
+                "coachTeamId": 345,
+                "coachTeamName": "Les Ambassadeurs de Zopal",
+                "teamId": 1368,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "luke cage",
+                "coachTeamId": 345,
+                "coachTeamName": "Les Ambassadeurs de Zopal",
+                "teamId": 1369,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    }
+}

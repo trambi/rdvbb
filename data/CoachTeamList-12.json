@@ -1,0 +1,362 @@
+{
+    "107": {
+        "name": "Lutece Noobz",
+        "id": 107,
+        "coachTeamMates": [
+            {
+                "coach": "Knox",
+                "coachTeamId": 107,
+                "coachTeamName": "Lutece Noobz",
+                "teamId": 593,
+                "teamName": "Dwarf killers",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Sladmortis",
+                "coachTeamId": 107,
+                "coachTeamName": "Lutece Noobz",
+                "teamId": 594,
+                "teamName": "Pro mais cool",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Titouch",
+                "coachTeamId": 107,
+                "coachTeamName": "Lutece Noobz",
+                "teamId": 595,
+                "teamName": "Pastis Stadium Revival",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "108": {
+        "name": "Mor(dor)bihan Division",
+        "id": 108,
+        "coachTeamMates": [
+            {
+                "coach": "\u0022Go the Hakes !\u0022",
+                "coachTeamId": 108,
+                "coachTeamName": "Mor(dor)bihan Division",
+                "teamId": 590,
+                "teamName": "The Ulthuan wizzzzz",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Fantomas",
+                "coachTeamId": 108,
+                "coachTeamName": "Mor(dor)bihan Division",
+                "teamId": 591,
+                "teamName": "Chaos technique",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Merlu",
+                "coachTeamId": 108,
+                "coachTeamName": "Mor(dor)bihan Division",
+                "teamId": 592,
+                "teamName": "La Bande \u0026agrave; Gourcuff",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "109": {
+        "name": "JC on te fume",
+        "id": 109,
+        "coachTeamMates": [
+            {
+                "coach": "Tyra",
+                "coachTeamId": 109,
+                "coachTeamName": "JC on te fume",
+                "teamId": 587,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Bucks",
+                "coachTeamId": 109,
+                "coachTeamName": "JC on te fume",
+                "teamId": 588,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Harti",
+                "coachTeamId": 109,
+                "coachTeamName": "JC on te fume",
+                "teamId": 589,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "110": {
+        "name": "La Socks\u0027",
+        "id": 110,
+        "coachTeamMates": [
+            {
+                "coach": "JManu",
+                "coachTeamId": 110,
+                "coachTeamName": "La Socks\u0027",
+                "teamId": 605,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "T\u0026eacute;va",
+                "coachTeamId": 110,
+                "coachTeamName": "La Socks\u0027",
+                "teamId": 611,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Zahiko",
+                "coachTeamId": 110,
+                "coachTeamName": "La Socks\u0027",
+                "teamId": 615,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "111": {
+        "name": "Les Sockettes",
+        "id": 111,
+        "coachTeamMates": [
+            {
+                "coach": "Zorglub",
+                "coachTeamId": 111,
+                "coachTeamName": "Les Sockettes",
+                "teamId": 603,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Old Dwarf",
+                "coachTeamId": 111,
+                "coachTeamName": "Les Sockettes",
+                "teamId": 606,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "The Pit",
+                "coachTeamId": 111,
+                "coachTeamName": "Les Sockettes",
+                "teamId": 614,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "112": {
+        "name": "English Menace",
+        "id": 112,
+        "coachTeamMates": [
+            {
+                "coach": "Pippy",
+                "coachTeamId": 112,
+                "coachTeamName": "English Menace",
+                "teamId": 609,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Schmee",
+                "coachTeamId": 112,
+                "coachTeamName": "English Menace",
+                "teamId": 610,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Winkle_Picka",
+                "coachTeamId": 112,
+                "coachTeamName": "English Menace",
+                "teamId": 612,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "113": {
+        "name": "ACP 1",
+        "id": 113,
+        "coachTeamMates": [
+            {
+                "coach": "ktulu",
+                "coachTeamId": 113,
+                "coachTeamName": "ACP 1",
+                "teamId": 599,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "maskil",
+                "coachTeamId": 113,
+                "coachTeamName": "ACP 1",
+                "teamId": 601,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "ghostdog",
+                "coachTeamId": 113,
+                "coachTeamName": "ACP 1",
+                "teamId": 604,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "114": {
+        "name": "ACP 2",
+        "id": 114,
+        "coachTeamMates": [
+            {
+                "coach": "loreco",
+                "coachTeamId": 114,
+                "coachTeamName": "ACP 2",
+                "teamId": 600,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "la fouine",
+                "coachTeamId": 114,
+                "coachTeamName": "ACP 2",
+                "teamId": 616,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "gregereggae",
+                "coachTeamId": 114,
+                "coachTeamName": "ACP 2",
+                "teamId": 618,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "115": {
+        "name": "Les Stinky Socks\u0027",
+        "id": 115,
+        "coachTeamMates": [
+            {
+                "coach": "Krisgob",
+                "coachTeamId": 115,
+                "coachTeamName": "Les Stinky Socks\u0027",
+                "teamId": 598,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Barboza",
+                "coachTeamId": 115,
+                "coachTeamName": "Les Stinky Socks\u0027",
+                "teamId": 613,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "LoMas",
+                "coachTeamId": 115,
+                "coachTeamName": "Les Stinky Socks\u0027",
+                "teamId": 620,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "116": {
+        "name": "Les experts Palerme",
+        "id": 116,
+        "coachTeamMates": [
+            {
+                "coach": "Garden",
+                "coachTeamId": 116,
+                "coachTeamName": "Les experts Palerme",
+                "teamId": 597,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Menzogna",
+                "coachTeamId": 116,
+                "coachTeamName": "Les experts Palerme",
+                "teamId": 602,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "SSB",
+                "coachTeamId": 116,
+                "coachTeamName": "Les experts Palerme",
+                "teamId": 617,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "117": {
+        "name": "Stade Lorain \u251c\u00e1 tous les \u251c\u00aetages",
+        "id": 117,
+        "coachTeamMates": [
+            {
+                "coach": "JC",
+                "coachTeamId": 117,
+                "coachTeamName": "Stade Lorain \u251c\u00e1 tous les \u251c\u00aetages",
+                "teamId": 619,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Martoni",
+                "coachTeamId": 117,
+                "coachTeamName": "Stade Lorain \u251c\u00e1 tous les \u251c\u00aetages",
+                "teamId": 621,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Oon",
+                "coachTeamId": 117,
+                "coachTeamName": "Stade Lorain \u251c\u00e1 tous les \u251c\u00aetages",
+                "teamId": 622,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "118": {
+        "name": "Socks\u0027 orga",
+        "id": 118,
+        "coachTeamMates": [
+            {
+                "coach": "Carl Malavai",
+                "coachTeamId": 118,
+                "coachTeamName": "Socks\u0027 orga",
+                "teamId": 596,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Sebotouno",
+                "coachTeamId": 118,
+                "coachTeamName": "Socks\u0027 orga",
+                "teamId": 607,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Trambi",
+                "coachTeamId": 118,
+                "coachTeamName": "Socks\u0027 orga",
+                "teamId": 608,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    }
+}

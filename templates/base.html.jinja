@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    {% block head %}
+    <link rel="stylesheet" href="style.css" />
+    <title>{% block title %}{% endblock %}</title>
+    {% endblock %}
+</head>
+<body>
+    <header>{{edition.name}}</header>
+    <nav>
+        <a href="games-{{edition.id}}.html">Matchs</a>
+        <a href="rankings-{{edition.id}}.html">Classements</a>
+        {% for id in editionsId %}
+        <a href="main-{{id}}.html">&Eacute;dition {{id}}</a>
+        {% endfor %}
+    </nav>
+    <main>{% block content %}{% endblock %}</main>
+<footer>
+    {% block footer %}
+    {% endblock %}
+</footer>
+</body>
+</html> 

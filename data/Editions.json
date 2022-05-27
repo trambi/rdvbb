@@ -1,0 +1,789 @@
+[
+    {
+        "id": 1,
+        "day1": "2003-05-10",
+        "day2": "2003-05-11",
+        "roundNumber": 6,
+        "currentRound": 6,
+        "useFinale": true,
+        "fullTriplette": false,
+        "rankingStrategyName": "Rdvbb1",
+        "rankingStrategy": {},
+        "rankings": {
+            "coach": {
+                "main": [
+                    "points",
+                    "netTd",
+                    "casualtiesFor"
+                ],
+                "td": [
+                    "tdFor"
+                ],
+                "casualties": [
+                    "casualtiesFor"
+                ],
+                "comeback": [
+                    "diffRanking",
+                    "firstDayRanking",
+                    "finalRanking"
+                ]
+            }
+        },
+        "firstDayRound": 3,
+        "organiser": "Longshot"
+    },
+    {
+        "id": 2,
+        "day1": "2004-07-03",
+        "day2": "2004-07-04",
+        "roundNumber": 6,
+        "currentRound": 6,
+        "useFinale": true,
+        "fullTriplette": false,
+        "rankingStrategyName": "Rdvbb2To3",
+        "rankingStrategy": {},
+        "rankings": {
+            "coach": {
+                "main": [
+                    "points",
+                    "opponentsPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ],
+                "td": [
+                    "tdFor"
+                ],
+                "casualties": [
+                    "casualtiesFor"
+                ],
+                "comeback": [
+                    "diffRanking",
+                    "firstDayRanking",
+                    "finalRanking"
+                ]
+            }
+        },
+        "firstDayRound": 3,
+        "organiser": "Longshot"
+    },
+    {
+        "id": 3,
+        "day1": "2005-06-25",
+        "day2": "2005-06-26",
+        "roundNumber": 6,
+        "currentRound": 6,
+        "useFinale": true,
+        "fullTriplette": false,
+        "rankingStrategyName": "Rdvbb2To3",
+        "rankingStrategy": {},
+        "rankings": {
+            "coach": {
+                "main": [
+                    "points",
+                    "opponentsPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ],
+                "td": [
+                    "tdFor"
+                ],
+                "casualties": [
+                    "casualtiesFor"
+                ],
+                "comeback": [
+                    "diffRanking",
+                    "firstDayRanking",
+                    "finalRanking"
+                ]
+            }
+        },
+        "firstDayRound": 3,
+        "organiser": "Longshot"
+    },
+    {
+        "id": 4,
+        "day1": "2006-06-24",
+        "day2": "2006-06-25",
+        "roundNumber": 6,
+        "currentRound": 6,
+        "useFinale": true,
+        "fullTriplette": false,
+        "rankingStrategyName": "Rdvbb4To5",
+        "rankingStrategy": {},
+        "rankings": {
+            "coach": {
+                "main": [
+                    "points",
+                    "opponentsPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ],
+                "td": [
+                    "tdFor"
+                ],
+                "casualties": [
+                    "casualtiesFor"
+                ],
+                "comeback": [
+                    "diffRanking",
+                    "firstDayRanking",
+                    "finalRanking"
+                ]
+            },
+            "coachTeam": {
+                "main": [
+                    "points",
+                    "opponentsPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ]
+            }
+        },
+        "firstDayRound": 3,
+        "organiser": "Longshot"
+    },
+    {
+        "id": 5,
+        "day1": "2007-06-30",
+        "day2": "2007-07-01",
+        "roundNumber": 5,
+        "currentRound": 5,
+        "useFinale": true,
+        "fullTriplette": false,
+        "rankingStrategyName": "Rdvbb4To5",
+        "rankingStrategy": {},
+        "rankings": {
+            "coach": {
+                "main": [
+                    "points",
+                    "opponentsPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ],
+                "td": [
+                    "tdFor"
+                ],
+                "casualties": [
+                    "casualtiesFor"
+                ],
+                "comeback": [
+                    "diffRanking",
+                    "firstDayRanking",
+                    "finalRanking"
+                ]
+            },
+            "coachTeam": {
+                "main": [
+                    "points",
+                    "opponentsPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ]
+            }
+        },
+        "firstDayRound": 3,
+        "organiser": "Trambi"
+    },
+    {
+        "id": 6,
+        "day1": "2008-07-05",
+        "day2": "2008-07-06",
+        "roundNumber": 5,
+        "currentRound": 5,
+        "useFinale": true,
+        "fullTriplette": false,
+        "rankingStrategyName": "Rdvbb6To8",
+        "rankingStrategy": {},
+        "rankings": {
+            "coach": {
+                "main": [
+                    "points",
+                    "opponentPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ],
+                "td": [
+                    "tdFor"
+                ],
+                "casualties": [
+                    "casualtiesFor"
+                ],
+                "comeback": [
+                    "diffRanking",
+                    "firstDayRanking",
+                    "finalRanking"
+                ]
+            },
+            "coachTeam": {
+                "main": [
+                    "points",
+                    "opponentPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ]
+            }
+        },
+        "firstDayRound": 3,
+        "organiser": "Trambi"
+    },
+    {
+        "id": 7,
+        "day1": "2009-07-04",
+        "day2": "2009-07-05",
+        "roundNumber": 5,
+        "currentRound": 5,
+        "useFinale": true,
+        "fullTriplette": false,
+        "rankingStrategyName": "Rdvbb6To8",
+        "rankingStrategy": {},
+        "rankings": {
+            "coach": {
+                "main": [
+                    "points",
+                    "opponentPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ],
+                "td": [
+                    "tdFor"
+                ],
+                "casualties": [
+                    "casualtiesFor"
+                ],
+                "comeback": [
+                    "diffRanking",
+                    "firstDayRanking",
+                    "finalRanking"
+                ]
+            },
+            "coachTeam": {
+                "main": [
+                    "points",
+                    "opponentPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ]
+            }
+        },
+        "firstDayRound": 3,
+        "organiser": "Trambi"
+    },
+    {
+        "id": 8,
+        "day1": "2010-06-26",
+        "day2": "2010-06-27",
+        "roundNumber": 5,
+        "currentRound": 5,
+        "useFinale": true,
+        "fullTriplette": false,
+        "rankingStrategyName": "Rdvbb6To8",
+        "rankingStrategy": {},
+        "rankings": {
+            "coach": {
+                "main": [
+                    "points",
+                    "opponentPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ],
+                "td": [
+                    "tdFor"
+                ],
+                "casualties": [
+                    "casualtiesFor"
+                ],
+                "comeback": [
+                    "diffRanking",
+                    "firstDayRanking",
+                    "finalRanking"
+                ]
+            },
+            "coachTeam": {
+                "main": [
+                    "points",
+                    "opponentPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ]
+            }
+        },
+        "firstDayRound": 3,
+        "organiser": "Trambi"
+    },
+    {
+        "id": 9,
+        "day1": "2011-07-02",
+        "day2": "2011-07-02",
+        "roundNumber": 5,
+        "currentRound": 5,
+        "useFinale": true,
+        "fullTriplette": false,
+        "rankingStrategyName": "Rdvbb9To10",
+        "rankingStrategy": {},
+        "rankings": {
+            "coach": {
+                "main": [
+                    "points",
+                    "opponentsPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ],
+                "td": [
+                    "tdFor"
+                ],
+                "casualties": [
+                    "casualtiesFor"
+                ],
+                "comeback": [
+                    "diffRanking",
+                    "firstDayRanking",
+                    "finalRanking"
+                ]
+            },
+            "coachTeam": {
+                "main": [
+                    "points",
+                    "opponentsPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ]
+            }
+        },
+        "firstDayRound": 3,
+        "organiser": "Trambi"
+    },
+    {
+        "id": 10,
+        "day1": "2012-06-30",
+        "day2": "2012-07-01",
+        "roundNumber": 5,
+        "currentRound": 5,
+        "useFinale": true,
+        "fullTriplette": false,
+        "rankingStrategyName": "Rdvbb9To10",
+        "rankingStrategy": {},
+        "rankings": {
+            "coach": {
+                "main": [
+                    "points",
+                    "opponentsPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ],
+                "td": [
+                    "tdFor"
+                ],
+                "casualties": [
+                    "casualtiesFor"
+                ],
+                "comeback": [
+                    "diffRanking",
+                    "firstDayRanking",
+                    "finalRanking"
+                ]
+            },
+            "coachTeam": {
+                "main": [
+                    "points",
+                    "opponentsPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ]
+            }
+        },
+        "firstDayRound": 3,
+        "organiser": "Trambi"
+    },
+    {
+        "id": 11,
+        "day1": "2013-09-28",
+        "day2": "2013-09-29",
+        "roundNumber": 5,
+        "currentRound": 5,
+        "useFinale": false,
+        "fullTriplette": true,
+        "rankingStrategyName": "Rdvbb11",
+        "rankingStrategy": {},
+        "rankings": {
+            "coach": {
+                "main": [
+                    "points",
+                    "opponentsPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ],
+                "td": [
+                    "tdFor"
+                ],
+                "casualties": [
+                    "casualtiesFor"
+                ],
+                "comeback": [
+                    "diffRanking",
+                    "firstDayRanking",
+                    "finalRanking"
+                ]
+            },
+            "coachTeam": {
+                "main": [
+                    "points",
+                    "opponentsPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ]
+            }
+        },
+        "firstDayRound": 3,
+        "organiser": "Trambi"
+    },
+    {
+        "id": 12,
+        "day1": "2014-10-04",
+        "day2": "2014-10-05",
+        "roundNumber": 5,
+        "currentRound": 5,
+        "useFinale": false,
+        "fullTriplette": true,
+        "rankingStrategyName": "Rdvbb12",
+        "rankingStrategy": {},
+        "rankings": {
+            "coach": {
+                "main": [
+                    "points",
+                    "opponentsPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ],
+                "td": [
+                    "tdFor"
+                ],
+                "casualties": [
+                    "casualtiesFor"
+                ],
+                "comeback": [
+                    "diffRanking",
+                    "firstDayRanking",
+                    "finalRanking"
+                ]
+            },
+            "coachTeam": {
+                "main": [
+                    "points",
+                    "opponentsPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ]
+            }
+        },
+        "firstDayRound": 3,
+        "organiser": "Trambi"
+    },
+    {
+        "id": 13,
+        "day1": "2015-06-27",
+        "day2": "2015-06-28",
+        "roundNumber": 5,
+        "currentRound": 5,
+        "useFinale": false,
+        "fullTriplette": true,
+        "rankingStrategyName": "Rdvbb13",
+        "rankingStrategy": {},
+        "rankings": {
+            "coach": {
+                "main": [
+                    "points",
+                    "opponentsPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ],
+                "td": [
+                    "tdFor"
+                ],
+                "casualties": [
+                    "casualtiesFor"
+                ],
+                "comeback": [
+                    "diffRanking",
+                    "firstDayRanking",
+                    "finalRanking"
+                ]
+            },
+            "coachTeam": {
+                "main": [
+                    "points",
+                    "opponentsPoints",
+                    "netTd",
+                    "casualtiesFor"
+                ]
+            }
+        },
+        "firstDayRound": 3,
+        "organiser": "Trambi"
+    },
+    {
+        "id": 14,
+        "day1": "2016-05-28",
+        "day2": "2016-05-29",
+        "roundNumber": 5,
+        "currentRound": 5,
+        "useFinale": true,
+        "fullTriplette": true,
+        "rankingStrategyName": "Rdvbb14",
+        "rankingStrategy": {},
+        "rankings": {
+            "coach": {
+                "main": [
+                    "points",
+                    "win",
+                    "draw",
+                    "opponentsPoints",
+                    "netTd",
+                    "netCasualties"
+                ]
+            },
+            "coachTeam": {
+                "main": [
+                    "coachTeamPoints",
+                    "win",
+                    "draw",
+                    "opponentCoachTeamPoints",
+                    "opponentsPoints"
+                ],
+                "comeback": [
+                    "diffRanking",
+                    "firstDayRanking",
+                    "finalRanking"
+                ],
+                "td": [
+                    "tdFor"
+                ],
+                "fouls": [
+                    "foulsFor"
+                ],
+                "casualties": [
+                    "casualtiesFor"
+                ],
+                "defense": [
+                    "tdAgainst"
+                ]
+            },
+            "special": {
+                "guest": "usage"
+            }
+        },
+        "firstDayRound": 3,
+        "organiser": "Sebotouno"
+    },
+    {
+        "id": 15,
+        "day1": "2017-05-20",
+        "day2": "2017-05-21",
+        "roundNumber": 5,
+        "currentRound": 5,
+        "useFinale": true,
+        "fullTriplette": true,
+        "rankingStrategyName": "Rdvbb14",
+        "rankingStrategy": {},
+        "rankings": {
+            "coach": {
+                "main": [
+                    "points",
+                    "win",
+                    "draw",
+                    "opponentsPoints",
+                    "netTd",
+                    "netCasualties"
+                ]
+            },
+            "coachTeam": {
+                "main": [
+                    "coachTeamPoints",
+                    "win",
+                    "draw",
+                    "opponentCoachTeamPoints",
+                    "opponentsPoints"
+                ],
+                "comeback": [
+                    "diffRanking",
+                    "firstDayRanking",
+                    "finalRanking"
+                ],
+                "td": [
+                    "tdFor"
+                ],
+                "fouls": [
+                    "foulsFor"
+                ],
+                "casualties": [
+                    "casualtiesFor"
+                ],
+                "defense": [
+                    "tdAgainst"
+                ]
+            },
+            "special": {
+                "guest": "usage"
+            }
+        },
+        "firstDayRound": 3,
+        "organiser": "Sebotouno"
+    },
+    {
+        "id": 16,
+        "day1": "2018-05-19",
+        "day2": "2018-05-20",
+        "roundNumber": 5,
+        "currentRound": 5,
+        "useFinale": true,
+        "fullTriplette": true,
+        "rankingStrategyName": "Rdvbb14",
+        "rankingStrategy": {},
+        "rankings": {
+            "coach": {
+                "main": [
+                    "points",
+                    "win",
+                    "draw",
+                    "opponentsPoints",
+                    "netTd",
+                    "netCasualties"
+                ]
+            },
+            "coachTeam": {
+                "main": [
+                    "coachTeamPoints",
+                    "win",
+                    "draw",
+                    "opponentCoachTeamPoints",
+                    "opponentsPoints"
+                ],
+                "comeback": [
+                    "diffRanking",
+                    "firstDayRanking",
+                    "finalRanking"
+                ],
+                "td": [
+                    "tdFor"
+                ],
+                "fouls": [
+                    "foulsFor"
+                ],
+                "casualties": [
+                    "casualtiesFor"
+                ],
+                "defense": [
+                    "tdAgainst"
+                ]
+            },
+            "special": {
+                "guest": "usage"
+            }
+        },
+        "firstDayRound": 3,
+        "organiser": "Sebotouno"
+    },
+    {
+        "id": 17,
+        "day1": "2019-06-15",
+        "day2": "2019-06-16",
+        "roundNumber": 5,
+        "currentRound": 5,
+        "useFinale": true,
+        "fullTriplette": true,
+        "rankingStrategyName": "Rdvbb17",
+        "rankingStrategy": {},
+        "rankings": {
+            "coach": {
+                "main": [
+                    "points",
+                    "opponentsPoints",
+                    "netTd",
+                    "netCasualties"
+                ]
+            },
+            "coachTeam": {
+                "main": [
+                    "coachTeamPoints",
+                    "opponentCoachTeamPoints",
+                    "points",
+                    "netTd",
+                    "netCasualties"
+                ],
+                "comeback": [
+                    "diffRanking",
+                    "firstDayRanking",
+                    "finalRanking"
+                ],
+                "td": [
+                    "tdFor"
+                ],
+                "fouls": [
+                    "foulsFor"
+                ],
+                "casualties": [
+                    "casualtiesFor"
+                ],
+                "defense": [
+                    "tdAgainst"
+                ]
+            },
+            "special": {
+                "guest": "usage"
+            }
+        },
+        "firstDayRound": 3,
+        "organiser": "Ghorghor"
+    },
+    {
+        "id": 18,
+        "day1": "2022-05-08",
+        "day2": "2022-05-09",
+        "roundNumber": 5,
+        "currentRound": 5,
+        "useFinale": true,
+        "fullTriplette": true,
+        "rankingStrategyName": "Rdvbb18",
+        "rankingStrategy": {},
+        "rankings": {
+            "coach": {
+                "main": [
+                    "points",
+                    "opponentsPoints",
+                    "netTd",
+                    "netCasualties"
+                ]
+            },
+            "coachTeam": {
+                "main": [
+                    "coachTeamPoints",
+                    "opponentCoachTeamPoints",
+                    "points",
+                    "netTd",
+                    "netCasualties"
+                ],
+                "comeback": [
+                    "diffRanking",
+                    "firstDayRanking",
+                    "finalRanking"
+                ],
+                "td": [
+                    "tdFor"
+                ],
+                "fouls": [
+                    "foulsFor"
+                ],
+                "casualties": [
+                    "casualtiesFor"
+                ],
+                "defense": [
+                    "tdAgainst"
+                ]
+            },
+            "special": {
+                "guest": "usage"
+            }
+        },
+        "firstDayRound": 3,
+        "organiser": "Sebotouno"
+    }
+]

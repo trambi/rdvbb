@@ -1,0 +1,26 @@
+{% extends "base.html.jinja" %}
+{% block title %}
+{{ edition.shortname }} - Matchs
+{% endblock %}
+{% block content %}
+    <h1>{{ edition.name }}</h1>
+    {% if edition.squadCompetition %}
+    {% for confrontationsByRound in edition.confrontations %}
+        <h2>Ronde {{loop.index}}</h2>
+        <dl>{% for confrontation in confrontationsByRound %}
+            <dt>{%if confrontation.finale %}<strong>Finale : </strong>{% else %}{{loop.index}} : {% endif %}{{confrontation.squad1}} vs {{confrontation.squad2}}</dt>
+            <dd>{% for game in confrontation.games %}
+                {% if false == loop.first %} -- {% endif %}{{game.coach1}} - {{game.td1}} vs {{game.td2}} - {{game.coach2}}
+            {% endfor %}</dd>
+        {% endfor %}
+        </dl>
+    {% endfor %}
+    {% else %}
+        {% for gamesByRound in edition.games %}
+        <h2>Ronde {{loop.index}}</h2>
+            <ul>{% for game in gamesByRound %}
+                <li>{%if game.finale %}<strong>Finale : </strong>{% endif %}{{game.coach1}} - {{game.td1}} vs {{game.td2}} - {{game.coach2}}</li>
+            {% endfor %}</ul>
+        {% endfor %}
+    {% endif %}
+{% endblock %}

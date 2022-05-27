@@ -1,0 +1,542 @@
+{
+    "316": {
+        "name": "Le Con, la Pute et l\u0027Expert",
+        "id": 316,
+        "coachTeamMates": [
+            {
+                "coach": "Budmilka",
+                "coachTeamId": 316,
+                "coachTeamName": "Le Con, la Pute et l\u0027Expert",
+                "teamId": 1279,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Corrupt",
+                "coachTeamId": 316,
+                "coachTeamName": "Le Con, la Pute et l\u0027Expert",
+                "teamId": 1280,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Pixmen",
+                "coachTeamId": 316,
+                "coachTeamName": "Le Con, la Pute et l\u0027Expert",
+                "teamId": 1281,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "317": {
+        "name": "Turone",
+        "id": 317,
+        "coachTeamMates": [
+            {
+                "coach": "Bourpif",
+                "coachTeamId": 317,
+                "coachTeamName": "Turone",
+                "teamId": 1282,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Karaak",
+                "coachTeamId": 317,
+                "coachTeamName": "Turone",
+                "teamId": 1283,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Gros nain",
+                "coachTeamId": 317,
+                "coachTeamName": "Turone",
+                "teamId": 1284,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "318": {
+        "name": "Confr\u00e9rie 207",
+        "id": 318,
+        "coachTeamMates": [
+            {
+                "coach": "Ploum",
+                "coachTeamId": 318,
+                "coachTeamName": "Confr\u00e9rie 207",
+                "teamId": 1285,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Leif",
+                "coachTeamId": 318,
+                "coachTeamName": "Confr\u00e9rie 207",
+                "teamId": 1286,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Benifactor",
+                "coachTeamId": 318,
+                "coachTeamName": "Confr\u00e9rie 207",
+                "teamId": 1287,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "319": {
+        "name": "Les D\u00e9chus",
+        "id": 319,
+        "coachTeamMates": [
+            {
+                "coach": "Nîme l'Ancien",
+                "coachTeamId": 319,
+                "coachTeamName": "Les D\u00e9chus",
+                "teamId": 1288,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Deletio",
+                "coachTeamId": 319,
+                "coachTeamName": "Les D\u00e9chus",
+                "teamId": 1289,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Davouille",
+                "coachTeamId": 319,
+                "coachTeamName": "Les D\u00e9chus",
+                "teamId": 1290,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "320": {
+        "name": "The Caved Bears",
+        "id": 320,
+        "coachTeamMates": [
+            {
+                "coach": "Kaoragh",
+                "coachTeamId": 320,
+                "coachTeamName": "The Caved Bears",
+                "teamId": 1291,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Lothurn",
+                "coachTeamId": 320,
+                "coachTeamName": "The Caved Bears",
+                "teamId": 1292,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Dadayou",
+                "coachTeamId": 320,
+                "coachTeamName": "The Caved Bears",
+                "teamId": 1293,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "321": {
+        "name": "Beppe\u0027s Barbarians",
+        "id": 321,
+        "coachTeamMates": [
+            {
+                "coach": "OldManDraco",
+                "coachTeamId": 321,
+                "coachTeamName": "Beppe\u0027s Barbarians",
+                "teamId": 1294,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Sjapie",
+                "coachTeamId": 321,
+                "coachTeamName": "Beppe\u0027s Barbarians",
+                "teamId": 1295,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Xod",
+                "coachTeamId": 321,
+                "coachTeamName": "Beppe\u0027s Barbarians",
+                "teamId": 1296,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "322": {
+        "name": "Les dents du lac",
+        "id": 322,
+        "coachTeamMates": [
+            {
+                "coach": "olivierdulac",
+                "coachTeamId": 322,
+                "coachTeamName": "Les dents du lac",
+                "teamId": 1297,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Sam du lac",
+                "coachTeamId": 322,
+                "coachTeamName": "Les dents du lac",
+                "teamId": 1298,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Dents de sabre",
+                "coachTeamId": 322,
+                "coachTeamName": "Les dents du lac",
+                "teamId": 1299,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "323": {
+        "name": "EDF Connection",
+        "id": 323,
+        "coachTeamMates": [
+            {
+                "coach": "Zahiko",
+                "coachTeamId": 323,
+                "coachTeamName": "EDF Connection",
+                "teamId": 1300,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Sladmortis",
+                "coachTeamId": 323,
+                "coachTeamName": "EDF Connection",
+                "teamId": 1301,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Nathaniel",
+                "coachTeamId": 323,
+                "coachTeamName": "EDF Connection",
+                "teamId": 1302,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "324": {
+        "name": "Assez Jou\u00e9, Surprends-Moi ! (AJSM)",
+        "id": 324,
+        "coachTeamMates": [
+            {
+                "coach": "Jokari",
+                "coachTeamId": 324,
+                "coachTeamName": "Assez Jou\u00e9, Surprends-Moi ! (AJSM)",
+                "teamId": 1303,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "XIII",
+                "coachTeamId": 324,
+                "coachTeamName": "Assez Jou\u00e9, Surprends-Moi ! (AJSM)",
+                "teamId": 1304,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Moranith",
+                "coachTeamId": 324,
+                "coachTeamName": "Assez Jou\u00e9, Surprends-Moi ! (AJSM)",
+                "teamId": 1305,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "325": {
+        "name": "Charlie et deux dr\u00f4les d\u0027Asgard",
+        "id": 325,
+        "coachTeamMates": [
+            {
+                "coach": "Pink Charlie",
+                "coachTeamId": 325,
+                "coachTeamName": "Charlie et deux dr\u00f4les d\u0027Asgard",
+                "teamId": 1306,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Crouch",
+                "coachTeamId": 325,
+                "coachTeamName": "Charlie et deux dr\u00f4les d\u0027Asgard",
+                "teamId": 1307,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Meiffer",
+                "coachTeamId": 325,
+                "coachTeamName": "Charlie et deux dr\u00f4les d\u0027Asgard",
+                "teamId": 1308,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "326": {
+        "name": "Les Sranimal\u0027Z",
+        "id": 326,
+        "coachTeamMates": [
+            {
+                "coach": "Pilaf",
+                "coachTeamId": 326,
+                "coachTeamName": "Les Sranimal\u0027Z",
+                "teamId": 1309,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Sran",
+                "coachTeamId": 326,
+                "coachTeamName": "Les Sranimal\u0027Z",
+                "teamId": 1310,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Ptit Lutin",
+                "coachTeamId": 326,
+                "coachTeamName": "Les Sranimal\u0027Z",
+                "teamId": 1311,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "327": {
+        "name": "Socks",
+        "id": 327,
+        "coachTeamMates": [
+            {
+                "coach": "Teva",
+                "coachTeamId": 327,
+                "coachTeamName": "Socks",
+                "teamId": 1312,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Harti",
+                "coachTeamId": 327,
+                "coachTeamName": "Socks",
+                "teamId": 1313,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Jmanu",
+                "coachTeamId": 327,
+                "coachTeamName": "Socks",
+                "teamId": 1314,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "328": {
+        "name": "Blitz Boyz",
+        "id": 328,
+        "coachTeamMates": [
+            {
+                "coach": "CrazyWa\u00efki",
+                "coachTeamId": 328,
+                "coachTeamName": "Blitz Boyz",
+                "teamId": 1315,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Rhadghut",
+                "coachTeamId": 328,
+                "coachTeamName": "Blitz Boyz",
+                "teamId": 1316,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Da Polux",
+                "coachTeamId": 328,
+                "coachTeamName": "Blitz Boyz",
+                "teamId": 1317,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "329": {
+        "name": "Spring Socks",
+        "id": 329,
+        "coachTeamMates": [
+            {
+                "coach": "Ghorghor",
+                "coachTeamId": 329,
+                "coachTeamName": "Spring Socks",
+                "teamId": 1318,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Helborg",
+                "coachTeamId": 329,
+                "coachTeamName": "Spring Socks",
+                "teamId": 1319,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Trambi",
+                "coachTeamId": 329,
+                "coachTeamName": "Spring Socks",
+                "teamId": 1320,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "330": {
+        "name": "la croisi\u00e8re t\u0027abuse",
+        "id": 330,
+        "coachTeamMates": [
+            {
+                "coach": "Frizzh",
+                "coachTeamId": 330,
+                "coachTeamName": "la croisi\u00e8re t\u0027abuse",
+                "teamId": 1321,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Sobhek",
+                "coachTeamId": 330,
+                "coachTeamName": "la croisi\u00e8re t\u0027abuse",
+                "teamId": 1322,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Baba Yara",
+                "coachTeamId": 330,
+                "coachTeamName": "la croisi\u00e8re t\u0027abuse",
+                "teamId": 1323,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "331": {
+        "name": "All Star Mercenary",
+        "id": 331,
+        "coachTeamMates": [
+            {
+                "coach": "Barbosa",
+                "coachTeamId": 331,
+                "coachTeamName": "All Star Mercenary",
+                "teamId": 1324,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "KhorneliusPraxx",
+                "coachTeamId": 331,
+                "coachTeamName": "All Star Mercenary",
+                "teamId": 1325,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Majoras",
+                "coachTeamId": 331,
+                "coachTeamName": "All Star Mercenary",
+                "teamId": 1326,
+                "teamName": "",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "332": {
+        "name": "Saut\u00e9s de Boeuf aux chataignes",
+        "id": 332,
+        "coachTeamMates": [
+            {
+                "coach": "Old Dwarf",
+                "coachTeamId": 332,
+                "coachTeamName": "Saut\u00e9s de Boeuf aux chataignes",
+                "teamId": 1327,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Maram",
+                "coachTeamId": 332,
+                "coachTeamName": "Saut\u00e9s de Boeuf aux chataignes",
+                "teamId": 1328,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Bucks",
+                "coachTeamId": 332,
+                "coachTeamName": "Saut\u00e9s de Boeuf aux chataignes",
+                "teamId": 1333,
+                "teamName": "Tampaneuses",
+                "isPrebooking": 0
+            }
+        ]
+    },
+    "333": {
+        "name": "Sockets mauve",
+        "id": 333,
+        "coachTeamMates": [
+            {
+                "coach": "Zorglub",
+                "coachTeamId": 333,
+                "coachTeamName": "Sockets mauve",
+                "teamId": 1330,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Jadawin",
+                "coachTeamId": 333,
+                "coachTeamName": "Sockets mauve",
+                "teamId": 1331,
+                "teamName": "",
+                "isPrebooking": 0
+            },
+            {
+                "coach": "Krisgob",
+                "coachTeamId": 333,
+                "coachTeamName": "Sockets mauve",
+                "teamId": 1332,
+                "teamName": "Krisgob\u0027s friends",
+                "isPrebooking": 0
+            }
+        ]
+    }
+}
